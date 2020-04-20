@@ -1,4 +1,11 @@
 body {
 	color: purple;
 	background-color: yellow;
+	font-family: sans-serif;
+}
+
+img {
+	max-height: 200px;
+	width: auto;
+	border-radius: 5px;
 }
